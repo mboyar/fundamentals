@@ -3,5 +3,6 @@ TEMPLATE = subdirs
 SUBDIRS += \
 	linkedlist \
         polymorph \
-        sysprog
+        sysprog \
+    attributes
 
