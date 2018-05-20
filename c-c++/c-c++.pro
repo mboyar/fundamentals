@@ -4,6 +4,7 @@ SUBDIRS += \
 	linkedlist \
         polymorph \
         sysprog \
-    aws-challange \
-    aws-challange-2
+	aws-challange \
+        aws-challange-2 \
+        attributes
 
