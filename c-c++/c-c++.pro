@@ -3,5 +3,7 @@ TEMPLATE = subdirs
 SUBDIRS += \
 	linkedlist \
         polymorph \
-        sysprog
+        sysprog \
+    aws-challange \
+    aws-challange-2
 
