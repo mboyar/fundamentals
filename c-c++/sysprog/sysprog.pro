@@ -6,3 +6,5 @@ CONFIG -= qt
 SOURCES += main.c
 
 INCLUDEPATH += /usr/include
+
+LIBS += -lpthread
