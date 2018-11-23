@@ -8,5 +8,6 @@ SUBDIRS += \
         challange-2 \
         challange-3 \
         attributes \
-    challange-3
+    challange-3 \
+    stdexecption-in-qtslot
 
