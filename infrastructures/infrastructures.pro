@@ -1,4 +1,5 @@
 TEMPLATE = subdirs
 
 SUBDIRS += \
-    paho-mqtt-cpp
+    paho-mqtt-cpp \
+    protobuf-cpp
